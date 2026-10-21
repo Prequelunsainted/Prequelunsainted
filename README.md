@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Lucas Gabriel 👋
+# Olá, eu sou o Lucas Gabriel
 
 **Desenvolvedor Full Stack em formação · Geotecnologias (Esri) · Dados · Inteligência Artificial**
 
@@ -26,10 +26,10 @@ Sou estudante do **4º período de Ciência da Computação** (Faculdade São Lu
 
 Tenho experiência prática no setor público como estagiário da **SEDEC (Coordenadoria GEODE)**, onde trabalhei com a plataforma **ArcGIS (Esri)**, tramitação de processos no **SEI** e elaboração de relatórios técnicos com apoio de **Inteligência Artificial**. Fora do trabalho, transformo o que aprendo em projetos reais: apps que funcionam offline, instalam no celular e têm testes automatizados.
 
-- 🔭 Construindo aplicações web, desktop e PWAs com foco em qualidade e usabilidade
-- 🗺️ Criando dashboards, mapas interativos e formulários inteligentes com ArcGIS
-- 🤖 Explorando IA generativa e agentes para automatizar rotinas
-- 🌱 Estudando TypeScript, .NET/Blazor, DevOps (Docker e CI/CD) e nuvem
+- Construindo aplicações web, desktop e PWAs com foco em qualidade e usabilidade
+- Criando dashboards, mapas interativos e formulários inteligentes com ArcGIS
+- Explorando IA generativa e agentes para automatizar rotinas
+- Estudando TypeScript, .NET/Blazor, DevOps (Docker e CI/CD) e nuvem
 
 ---
 
@@ -132,13 +132,13 @@ Painel administrativo com **Blazor WebAssembly e MudBlazor**: KPIs com sparkline
 ![SEI](https://img.shields.io/badge/SEI-Gestão_documental-0F4C81?style=flat-square)
 
 **Além do código**
-- 🤖 Uso avançado de IA generativa, engenharia de prompts e criação de agentes de IA
-- 🖥️ Montagem e manutenção de computadores, redes e infraestrutura de TI
-- 🧠 Pensamento analítico, resolução de problemas, trabalho em equipe e aprendizado contínuo
+-  Uso avançado de IA generativa, engenharia de prompts e criação de agentes de IA
+-  Montagem e manutenção de computadores, redes e infraestrutura de TI
+-  Pensamento analítico, resolução de problemas, trabalho em equipe e aprendizado contínuo
 
 ---
 
-## 🎓 Formação e experiência
+## Formação e experiência
 
 | | |
 |---|---|
@@ -148,7 +148,7 @@ Painel administrativo com **Blazor WebAssembly e MudBlazor**: KPIs com sparkline
 
 ---
 
-## 📫 Vamos conversar?
+## Vamos conversar?
 
 Estou aberto a oportunidades de **estágio e vagas júnior** em desenvolvimento, dados/geoprocessamento e TI.
 
@@ -156,6 +156,6 @@ Estou aberto a oportunidades de **estágio e vagas júnior** em desenvolvimento,
 
 <div align="center">
 
-⭐ Se algum projeto foi útil para você, deixe uma estrela no repositório!
+Se algum projeto foi útil para você, deixe uma estrela no repositório!
 
 </div>
